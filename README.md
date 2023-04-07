@@ -1,2 +1,3 @@
 # MCM_sailboatData
-sailboatdata.com/sailboat
+https://sailboatdata.com/sailboat
+基于selenium的帆船数据爬虫
